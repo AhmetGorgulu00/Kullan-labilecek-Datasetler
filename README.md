@@ -1,1 +1,1 @@
-# Kullan-labilecek-Datasetler
+# Kullanilabilecek-Datasetler
